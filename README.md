@@ -1,2 +1,6 @@
-# rnaseq_power_calc
-RShiny App to provide power calculation for RNA-Seq experiments based on the RNASeqPower R package.
+# RNA-Seq RShiny App
+
+## Project for RaukR course in Advanced R programming
+This is the source code for a RShiny App to provide power calculation for RNA-Seq experiments based on the RNASeqPower R package.
+
+It provides a graphical user interface that can be deployed online through any RShiny server.
