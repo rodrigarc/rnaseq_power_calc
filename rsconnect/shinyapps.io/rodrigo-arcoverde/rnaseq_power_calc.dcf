@@ -1,0 +1,11 @@
+name: rnaseq_power_calc
+title:
+username:
+account: rodrigo-arcoverde
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6517174
+bundleId: 6023317
+url: https://rodrigo-arcoverde.shinyapps.io/rnaseq_power_calc/
+when: 1655710522.86973
+lastSyncTime: 1655710522.86975
